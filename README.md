@@ -6,5 +6,5 @@
 ![CI](https://github.com/excessu69/credit_card_validator/actions/workflows/web.yml/badge.svg)
 
 <a href="https://excessu69.github.io/credit_card_validator/" target="_blank">
-  <img src="./src/img/icons8-оплата-100.png" alt="Start Button" width="180">
+  <img src="./src/img/icons8-оплата-50.png" alt="Start Button" width="180">
 </a>
